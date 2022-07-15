@@ -1,0 +1,41 @@
+{   
+    "timing" : {
+        "fps" : 60,
+        "max_time_update" : 1000
+    },
+    "stats" : {
+        "foreground_color" : [0,0,0],
+        "position" : [0,0]
+    },
+    "game" : {
+        "screen_size" : [1280, 720],
+        "caption" : "Healthy, A Videogame to learn to eat healthy food",
+        "background_color" : [91,247,232],
+        "font" : {
+            "pack" : "healthy.assets.fonts",
+            "file" : "Sansation.ttf",
+            "size" : 16
+        }
+    },
+    "little" : {
+        "speed" : 0.2,
+        "image_pack" : "healthy.assets.images.walk",
+        "image_file" : "SM1_autumn_Walk_009.png"
+    },
+    "back" : {
+        "back_ground_pack" : "healthy.assets.images",
+        "back_ground_file" : "fondoM.jpg"
+        },
+    "music":{
+            "music_pack" : "healthy.assets.sounds",
+            "music_file" : "desesperebolo-9006.mp3"
+        },  
+    "metal": {
+            "metal_pack" : "healthy.assets.sounds",
+            "metal_file"  : "sfx-metal2.mp3"
+        },    
+    "wow": {
+            "wow_pack" : "healthy.assets.sounds",
+            "wow_file"  : "sfx-wow.mp3"
+        }      
+}
